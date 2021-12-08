@@ -1,4 +1,7 @@
-### Hi there 👋
+# Gaalpos´s world
+
+- Im currently studying a cross-platform application development grade
+
 
 <!--
 **Gaalpos/Gaalpos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
