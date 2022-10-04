@@ -1,3 +1,5 @@
+[![@gaalpos's Holopin board](https://holopin.io/api/user/board?user=gaalpos)](https://holopin.io/@gaalpos)
+
 # Gaalpos´s world
 
 - Im currently studying a cross-platform application development grade
