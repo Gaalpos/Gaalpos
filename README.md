@@ -2,7 +2,7 @@
 
 # Repositories of interest
 
-**Automate your workflow with** https://github.com/Gaalpos/autoGit
+**Improve your workflow with GIT automation** https://github.com/Gaalpos/autoGit
 
 **All the work we do on Programming** https://github.com/Gaalpos/programacion
 
