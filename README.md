@@ -1,7 +1,7 @@
 
 
 &nbsp;<div align="center">
-  # 🎵 Vibing to
+  ## 🎵 Vibing to
   [![Spotify](https://novatorem-o0bz0najk-gaalpos.vercel.app/api/spotify)](https://open.spotify.com/user/gabripazos13/api?rainbow=true)
 </div>
 
