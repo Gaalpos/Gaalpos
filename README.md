@@ -5,8 +5,6 @@
 
 **Improve your workflow with GIT automation** https://github.com/Gaalpos/autoGit
 
-**SpringBoot app** https://github.com/Gaalpos/springbootapp
-Link to test the app: https://springbootapp-production.up.railway.app/
 
 
 
