@@ -3,7 +3,7 @@
 
 # Repositories of interest
 
-**Improve your workflow with GIT automation** https://github.com/Gaalpos/autoGit
+**Improve your workflow with GIT automation (Windows)** https://github.com/Gaalpos/autoGit
 
 
 
