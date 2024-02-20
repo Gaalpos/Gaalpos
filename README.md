@@ -17,17 +17,17 @@
     "name": "Gabriel Pazos",
     "YouTube": "@Gaalpos",
     "code":{
-        "frontend": ["HTML", "CSS", "JavaScript", "ReactJS", "React","Boostrap"],
-        "backend": ["NextJs", "Python", "PHP", "Flask", "Django", "Laravel", "NodeJS", "Odoo"],
+        "frontend": ["HTML", "CSS", "JavaScript", "React", "Boostrap"],
+        "backend": ["Java", Python", "PHP", "NodeJS"],
         "database": ["MySQL", "MongoDB"],
         "tools": ["GIT", "GitHub"],
-        "misc": ["GNU/Linux"]
+        "misc": ["GNU/Linux" , ]
     },
     "architecture": ["SPA", "MVC", "Serverless", "microservices"],
     "other":{
-    "hardware" : ["PC building", "mobile phone repair"],
-    "other tools": ["Davinci Resolve"],
-},
+        "hardware" : ["PC building", "mobile phone repair"],
+        "other tools": ["Davinci Resolve" , "OBS"],
+    },
 }
 ```
 
