@@ -8,27 +8,3 @@
 [My personal web](https://gaalpos.github.io/myWeb/)
 
 [Very important Web](https://gaalpos.github.io/gafa-nadal)
-
-
-
-```javascript
-{
-    "username": "gaalpos",
-    "name": "Gabriel Pazos",
-    "YouTube": "@Gaalpos",
-    "code":{
-        "frontend": ["HTML", "CSS", "JavaScript", "React", "Boostrap"],
-        "backend": ["Java", "Python", "PHP", "NodeJS"],
-        "database": ["MySQL", "MongoDB"],
-        "tools": ["GIT", "GitHub"],
-        "misc": ["GNU/Linux" , ]
-    },
-    "architecture": ["SPA", "MVC", "Serverless", "microservices"],
-    "other":{
-        "hardware" : ["PC building", "mobile phone repair"],
-        "other tools": ["Davinci Resolve" , "OBS"],
-    },
-}
-```
-
-
