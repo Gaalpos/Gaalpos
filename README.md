@@ -18,7 +18,7 @@
     "YouTube": "@Gaalpos",
     "code":{
         "frontend": ["HTML", "CSS", "JavaScript", "React", "Boostrap"],
-        "backend": ["Java", Python", "PHP", "NodeJS"],
+        "backend": ["Java", "Python", "PHP", "NodeJS"],
         "database": ["MySQL", "MongoDB"],
         "tools": ["GIT", "GitHub"],
         "misc": ["GNU/Linux" , ]
